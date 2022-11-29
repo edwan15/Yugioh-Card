@@ -1,3 +1,9 @@
+En este Repositorio te dejo el codigo de filtros de busquedas de cartas , Utilizando api de YUGIOH tambien realizo el Codigo de paginacion Dinamicas en Next JS.
+<br/>
+Made with ❤️ : Edwan zapata
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
