@@ -1,4 +1,4 @@
-En este Repositorio te dejo el codigo de filtros de busquedas de cartas , Utilizando api de YUGIOH tambien realizo el Codigo de paginacion Dinamicas en Next JS.
+En este Repositorio te dejo el codigo para Hacer un filtros de busquedas  , Utilizando una api de YUGIOH tambien realizo el Codigo de paginacion Dinamicas en Next JS.
 <br/>
 Made with ❤️ : Edwan zapata
 
